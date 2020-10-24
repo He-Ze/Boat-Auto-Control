@@ -1,0 +1,8 @@
+prefix=/home/d402/python_ws/install
+
+Name: boat
+Description: Description of boat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
